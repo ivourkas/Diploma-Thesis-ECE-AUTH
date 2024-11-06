@@ -1,4 +1,4 @@
-Title:"Effect of COVID-19 and the wars in Ukraine and Israel on the European wholesale electricity markets"
+# Title:"Effect of COVID-19 and the wars in Ukraine and Israel on the European wholesale electricity markets"
 
 The purpose of this thesis is to study the impact of the COVID-19 pandemic and the two ongoing wars in Ukraine and Israel on the European electricity market. Understanding how health and geopolitical disruptions affect the prices of this particular market is considered crucial for the strategy of market participants.
 Initially, the thesis introduces the tools used and the data management methods in Python. The time series analyzed include: (a) the clearing prices of the Day-Ahead Market (DAM), and (b) the month-ahead futures contracts (month+1 futures) for energy products Brent, Dutch TTF, and EUAs. It is noteworthy that the time series prices cover the period from January 1, 2019, to January 1, 2024. The thesis details how the data were analyzed using charts and tables through the Python programming language.
